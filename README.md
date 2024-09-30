@@ -13,6 +13,8 @@ Python script is designed to automatically organize your downloaded files based 
 The script monitors a designated downloads folder and moves files to specific directories according 
 to their extensions (e.g., `.png`, `.jpg`, `.mp4`, `.mp3`).
 
+Python 3.11
+
 **Features**:
 
 Automatic File Organization: Files are moved to pre-defined directories based on their extensions.
